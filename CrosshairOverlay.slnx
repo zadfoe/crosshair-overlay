@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CrosshairOverlay.vcxproj" Id="e3114e01-9cbc-4774-85d5-314425bc3305" />
+</Solution>
